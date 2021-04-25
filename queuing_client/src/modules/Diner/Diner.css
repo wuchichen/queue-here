@@ -1,0 +1,11 @@
+.btn-slot {
+  width: 70px;
+  margin: 0 1rem 1rem 0;
+}
+
+.btn-slot:disabled {
+  text-decoration: line-through;
+  font-style: italic;
+  color: grey;
+  border-color: grey;
+}

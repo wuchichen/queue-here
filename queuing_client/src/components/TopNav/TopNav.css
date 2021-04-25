@@ -1,0 +1,8 @@
+.TopNav {
+  position: fixed;
+  width: 100%;
+}
+
+.loggedin-container {
+  display: flex;
+}
